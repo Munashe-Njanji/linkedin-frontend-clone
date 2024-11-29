@@ -1,7 +1,5 @@
-// import LinkedInHeader from "./components/LinkedInHeader"
-
 import LinkedInHeader from "./components/Header"
-import LinkedInHomePage from "./components/LinkedInHomePage"
+import LinkedInHomePage from "./pages/LinkedInHomePage"
 
 function App() {
 
